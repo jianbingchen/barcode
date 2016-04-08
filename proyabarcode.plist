@@ -39,9 +39,9 @@
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
-					<string>exp</string>
+					<string>barcode</string>
 					<key>title</key>
-					<string>exp</string>
+					<string>barcode</string>
 				</dict>
 			</dict>
 		</array>
